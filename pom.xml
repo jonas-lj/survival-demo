@@ -19,7 +19,7 @@
     <dependency>
       <groupId>dk.alexandra.fresco</groupId>
       <artifactId>stat</artifactId>
-      <version>0.4</version>
+      <version>0.5</version>
     </dependency>
 
     <dependency>
