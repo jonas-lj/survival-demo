@@ -40,7 +40,7 @@ Standard errors and confidence intervals are for log HR
 ------------------------------------------------------------------------
 ```
 
-Here, the first coefficient is for the age (scaled by 0.01), the second is for drug usage (1 yes, 0 no), 
+Here, the first coefficient is for the age (scaled by 0.1), the second is for drug usage (1 yes, 0 no), 
 so the regressions shows that an increase in age of 10 years increases the
 mortality rate by 149.8% and that drug usage increases the mortality rate
 of 156.4%.
